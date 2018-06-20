@@ -18,8 +18,7 @@
 - **Newsweek 新闻周刊**
   -仅次于《时代》的新闻类周刊，观点比《时代》更自由而比《美国新闻和世界报道》更保守。
 - **The Ecnomist 经济学人**
-- **Scientific American 科学美国人**
-
+  - 由伦敦经济学人报纸有限公司出版的杂志,主要关注政治和商业方面的新闻，每期也有一两篇针对科技和艺术的报导，以及一些书评。
 
 ### 目前正在努力提供的原版报刊
 
@@ -27,6 +26,7 @@
 
 ### 之后可能会提供
 
+- Scientific American 科学美国人
 - National Geographic 国家地理
 - US news & world report 美国新闻和世界报道
 - China Daily 中国日报
