@@ -1,7 +1,7 @@
 ## New Yorker 纽约客链接
 
 ### 2018
-|1.01|1.08|1.15|1.22|1.29|2.05|2.12&19|2.26|3.05|3.12|~~3.19~~|3.26|4.02|4.09|4.16|4.23|4.30|5.07|5.14|5.21||||
+|1.01|1.08|1.15|1.22|1.29|2.05|2.12&19|2.26|3.05|3.12|~~3.19~~|3.26|4.02|4.09|4.16|4.23|4.30|5.07|5.14|5.21|5.28|6.04&11|6.18|6.25||
 
 - 1.01链接: https://pan.baidu.com/s/1e4q8T-5kCiHvsMAiy4Pjuw 密码: 3udd
 - 1.08链接: https://pan.baidu.com/s/1BA09urr72PwmTEGH4Uo-sA 密码: vx1z
@@ -22,4 +22,8 @@
 - 5.07链接: https://pan.baidu.com/s/1YHn3nkB6Nv-bxNALd61Jyw 密码: y49d
 - 5.14链接: https://pan.baidu.com/s/1wtYILHWFntPHXH28PaVPJQ 密码: i74x
 - 5.21链接: https://pan.baidu.com/s/1zgIxxMTsMtV827IsLUmNGw 密码: 796g
+- 5.28链接: https://pan.baidu.com/s/1QDYDiaTUcOza7JNnmoMhUA 密码: 4u5j
+- 6.04&11链接: https://pan.baidu.com/s/1rX0vwEBFxZ3ghk4DsAt5iQ 密码: icqh
+- 6.18链接: https://pan.baidu.com/s/1TGpMN1GpaHPF8CnKaNMO4g 密码: wye5
+- 6.25链接: https://pan.baidu.com/s/1B1F2QJV5mWWR9t1AefzQfg 密码: idpy
 - 
