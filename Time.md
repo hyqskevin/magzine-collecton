@@ -1,7 +1,7 @@
 ## Time 时代周刊链接
 
 ### 2018
-|1.15|1.22|1.29|2.05|2.12|2.19|2.26(double issue)|3.12|3.19|~~3.26~~|4.02|4.09|4.16|4.23|4.30(double issue)|5.14|5.21|~~5.28~~|6.04|6.11|6.18|
+|1.15|1.22|1.29|2.05|2.12|2.19|2.26(double issue)|3.12|3.19|~~3.26~~|4.02|4.09|4.16|4.23|4.30(double issue)|5.14|5.21|5.28|6.04|6.11|6.18|6.25|
 
 - 1.15链接: https://pan.baidu.com/s/1dfxuvzuscunemRNrG6-1AA 密码: 52bp
 - 1.22链接: https://pan.baidu.com/s/14i5E8O7t4Wlt5HpsNr7v8w 密码: w2p8
@@ -19,8 +19,11 @@
 - 4.30链接: https://pan.baidu.com/s/1COXdyLPZg4fzCZVLoMcQyQ 密码: wxwp
 - 5.14链接: https://pan.baidu.com/s/1yr__8GP4hveUkhjJ1QJlZg 密码: cd9s
 - 5.21链接: https://pan.baidu.com/s/16fh8oLHQdXmLqva0oBxxCA 密码: jsh2
+- 5.28链接: https://pan.baidu.com/s/1Rn87V-igPs5a8wi1LWE66Q 密码: qccn
 - 6.04链接: https://pan.baidu.com/s/1fGKCrfP-VZCfrJAE50oQnA 密码: 9iq6
 - 6.11链接: https://pan.baidu.com/s/1YaU69usFSOEl_LICujF9hQ 密码: mpar
+- 6.18链接: https://pan.baidu.com/s/1uVVsgxw_D1hMGRhANzBe3g 密码: gdvt
+- 6.25链接: https://pan.baidu.com/s/17l12bN5k-0GsMXGmGVhSxA 密码: ujrc
 
 - 2.29(international)链接: https://pan.baidu.com/s/1yUuW_2rAaXAurOM6nJ49EQ 密码: 6qq1
 - 4.23(international)链接: https://pan.baidu.com/s/1WloId_pPeBF20Lvbye5OBw 密码: kmem
