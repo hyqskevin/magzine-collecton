@@ -1,7 +1,7 @@
 ## New Yorker 纽约客链接
 
 ### 2018
-|1.01|1.08|1.15|1.22|1.29|2.05|2.12&19|2.26|3.05|3.12|~~3.19~~|3.26|4.02|4.09|4.16|4.23|4.30|5.07|5.14|5.21|5.28|6.04&11|6.18|6.25||
+|1.01|1.08|1.15|1.22|1.29|2.05|2.12&19|2.26|3.05|3.12|3.19|3.26|4.02|4.09|4.16|4.23|4.30|5.07|5.14|5.21|5.28|6.04&11|6.18|6.25||
 
 - 1.01链接: https://pan.baidu.com/s/1e4q8T-5kCiHvsMAiy4Pjuw 密码: 3udd
 - 1.08链接: https://pan.baidu.com/s/1BA09urr72PwmTEGH4Uo-sA 密码: vx1z
@@ -13,6 +13,7 @@
 - 2.26链接: https://pan.baidu.com/s/1_kUTZzOm7T3ErqkIQpKibw 密码: 6p6b
 - 3.05链接: https://pan.baidu.com/s/1Kk8m5fXZv2Dywq0dJZgxBg 密码: hvyg
 - 3.12链接: https://pan.baidu.com/s/1d8-R1qIcxS55k6R9PpT4dg 密码: tjvn
+- 3.19链接: https://pan.baidu.com/s/15gq14ZJQMdsq4gWmR24rhw 密码: tk3t
 - 3.26链接: https://pan.baidu.com/s/1fWb8fUwxsZ8nc1lX1eefrA 密码: d49x
 - 4.02链接: https://pan.baidu.com/s/1yWbPoWWchSB5pSlF7gWNtg 密码: ypup
 - 4.09链接: https://pan.baidu.com/s/1G_8j3rM0uxQINdaN3Iai7g 密码: s1y5
