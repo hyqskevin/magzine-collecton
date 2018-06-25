@@ -1,7 +1,7 @@
 ## The Ecnomist 经济学人下载链接
 
 ### 2018
-|1.06|1.13|1.20|1.27|2.03|2.10|2.17|2.24|3.03|3.10|3.17|3.24|3.31|4.07|4.14|4.21|4.28|5.05|5.12|5.19|5.26|6.02|~~6.09~~|6.16|
+|1.06|1.13|1.20|1.27|2.03|2.10|2.17|2.24|3.03|3.10|3.17|3.24|3.31|4.07|4.14|4.21|4.28|5.05|5.12|5.19|5.26|6.02|~~6.09~~|6.16|6.23||
 
 - 1.06链接: https://pan.baidu.com/s/1qb2YmMiAM710UtwGJrSS0w 密码: bvfi
 - 1.13链接: https://pan.baidu.com/s/1G1O0Isv5R4zpQLZxYg1nuA 密码: 9rxf
@@ -26,5 +26,6 @@
 - 5.26链接: https://pan.baidu.com/s/1zxeQNSeCS103Jkc0OPh_YA 密码: 53q5
 - 6.02链接: https://pan.baidu.com/s/11cBjnCiDx-cKQWTSBtoKiQ 密码: ys2s
 - 6.16链接: https://pan.baidu.com/s/1P0Krx5EERT1UkXqEr20iGg 密码: py98
+- 6.23链接: https://pan.baidu.com/s/1LZ_WC4JWLjTS9Rc1SOIbJw 密码: r6b5
  
 - the world in 2018链接: https://pan.baidu.com/s/1lkiRKjJIZ2581dJEUnEICQ 密码: 7qgh
