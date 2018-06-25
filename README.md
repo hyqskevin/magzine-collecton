@@ -17,7 +17,7 @@
   - 美国知识、文艺类的综合杂志，以非虚构作品为主，包括对政治、国际事务、大众文化和艺术、科技以及商业的报道和评论，另外也会刊发一些文学作品，主要是短篇小说和诗歌，以及幽默小品和漫画作品。
   - 个人感觉稍难，适合文艺青年 or 英语爱好者
   
-- **Newsweek 新闻周刊**
+- [**Newsweek 新闻周刊**](https://github.com/hyqskevin/magzine-collecton/blob/master/Newsweek.md)
   - 仅次于《时代》的新闻类周刊，观点比《时代》更自由而比《美国新闻和世界报道》更保守。
   
 - [**The Economist 经济学人**](https://github.com/hyqskevin/magzine-collecton/blob/master/The%20Economist.md)
