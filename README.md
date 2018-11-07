@@ -26,6 +26,8 @@
 - [**Scientific American 科学美国人**](https://github.com/hyqskevin/magzine-collecton/blob/master/Scientific%20American.md)
   - 美国的一本科普杂志，每月出版
   
+- [**National Geography 国家地理**](https://github.com/hyqskevin/magzine-collecton/blob/master/National%20Geograpy)
+  - 美国国家地理杂志
 ### 目前正在努力提供的原版报刊
 
 - **The New York Times 纽约时报**
