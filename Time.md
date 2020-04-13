@@ -4,7 +4,7 @@
 ### 2019 合辑链接：https://pan.baidu.com/s/1CR11c1oEXGhQPGrFIXjFVg 提取码：zh0x 
 ### 2020 合辑链接：https://pan.baidu.com/s/107jHQK8ramUeRu2PYkMU6A 提取码：9uz1 
 
-- 2020 更新至4.16-23
+- 2020 更新至4.06-13
 
 - 2018 缺版|7.16|7.23-30|
 - 2019 缺版|7.15|10.28|
