@@ -8,7 +8,7 @@
 
 ### 原版杂志
 
-- [**Time 时代周刊**](https://github.com/hyqskevin/magzine-collecton/blob/master/Time.md)(--2020.04.23)
+- [**Time 时代周刊**](https://github.com/hyqskevin/magzine-collecton/blob/master/Time.md)(--2020.04.13)
   - 美国三大时事性周刊之一，内容广泛，对国际问题发表主张和对国际重大事件进行跟踪报道。
   
 - [**New Yorker 纽约客**](https://github.com/hyqskevin/magzine-collecton/blob/master/New%20Yorker.md)(--2020.04.13)
@@ -27,7 +27,7 @@
 - [**Scientific American 科学美国人**](https://github.com/hyqskevin/magzine-collecton/blob/master/Scientific%20American.md)(--2020.04)
   - 美国的一本科普杂志，每月出版。
   
-- [**BBC Science Focus BBC科学聚焦**](https://github.com/hyqskevin/magzine-collecton/blob/master/BBC%20Science%20Focus.md)
+- [**BBC Science Focus BBC科学聚焦**](https://github.com/hyqskevin/magzine-collecton/blob/master/BBC%20Science%20Focus.md)(--2020.04)
   - 英国的一本科技月刊杂志，涵盖科学和技术的各个方面，为一般读者以及具有科学知识的人们撰写。
   
 - [**National Geographic 国家地理**](https://github.com/hyqskevin/magzine-collecton/blob/master/National%20Geograpy.md)(--2020.04)
