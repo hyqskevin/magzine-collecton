@@ -21,7 +21,7 @@
 - [**The Economist 经济学人**](https://github.com/hyqskevin/magzine-collecton/blob/master/The%20Economist.md)(--2019.12.08)
   - 由伦敦经济学人报纸有限公司出版的杂志，主要关注政治和商业方面的新闻，每期也有一两篇针对科技和艺术的报导，以及一些书评。
 
-- [**New Scientist 新科学人**])(https://github.com/hyqskevin/magzine-collecton/blob/master/New%20Scientist.md)
+- [**New Scientist 新科学人**](https://github.com/hyqskevin/magzine-collecton/blob/master/New%20Scientist.md)
   - 英国的国际性科学杂志，它并不是同行评审的科学期刊，不过仍广为科学和非科学领域的人士阅读，以接轨非专门或有兴趣领域的最新发展。
   
 - [**Scientific American 科学美国人**](https://github.com/hyqskevin/magzine-collecton/blob/master/Scientific%20American.md)(--2020.04)
