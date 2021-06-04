@@ -6,6 +6,8 @@
 
 ### 2020 合辑链接：https://pan.baidu.com/s/107jHQK8ramUeRu2PYkMU6A 提取码：9uz1
 
+### 2021 合辑链接：https://pan.baidu.com/s/14C95JB7Yb6ESP0APMwq9bA 提取码：qqxy 
+
 - 2012 Special Commemorative Issue Steve Jobs 链接：https://pan.baidu.com/s/1yFyqSqBVhhkm_6F-YnBDTg 提取码：yjcp
 - 2019 Star Trek 链接：https://pan.baidu.com/s/1qO4dXrs2wWpziJwkIhvTGQ 提取码：hxhx
 
@@ -13,4 +15,4 @@
 - 2019 缺版|7.15|10.28|
 - 2020 缺版|3.30|
 
-- 2020 更新至 6.08
+- 2021 更新至 6.14
